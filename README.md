@@ -7,7 +7,7 @@ A simple Dataset analytics application that allows the users to Upload, Compute 
 
 ## Accessing the Dataset Application
 
-- Access via http://localhost to access the frontend
+- Access via http://localhost to access the frontend (running on port 80 via nginx)
 
 ## Import
 - Import any Dataset with different column types (int, float and str mainly considered here) and pick int and float fields for compute and plot.
