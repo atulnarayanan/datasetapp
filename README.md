@@ -4,10 +4,13 @@
 
 - docker-compose up -d --build
 
-## Accessing the Database
+## Accessing the Dataset Application
 
 - Access via http://localhost to access the frontend
 
+## Import
+- Import any Dataset with different column types (int, float and str mainly considered here) and pick int and float fields for compute and plot.
+
 ### Notes
 
-1. Backend Improvements: Adding Celery async task queue for processing dataset uploads to scale large dataset imports.
+1. Backend Improvements (TBD): Adding Celery async task queue for processing dataset uploads to scale large dataset imports.
