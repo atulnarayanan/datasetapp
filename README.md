@@ -1,4 +1,5 @@
 ### Dataset App
+A simple Dataset analytics application that allows the users to Upload, Compute based on certain operations (min, max and sum) and also plot scatter plots based on the dataset selected.
 
 ## Starting the Application
 
