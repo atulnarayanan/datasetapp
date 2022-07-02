@@ -1,0 +1,42 @@
+.upload-modal-button {
+    float: right;
+}
+
+.dataset-row{
+    margin-top:2%;
+}
+
+.home-dataset-card{
+    width: 240px;
+    height:180px;
+    border-color: black;
+    box-shadow: 1px 1px 1px 1px;
+    box-sizing: content-box;
+    text-align: center;
+    justify-content: center;
+    margin-top: 8%;
+    padding: 0;
+    background: white;
+    border-bottom-left-radius: 12px;
+    border-bottom-right-radius: 12px;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+  }  
+
+  .site-layout-content {
+    min-height: 80vh;
+    padding: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .layout{
+    background: #fff;
+    margin: auto;
+    min-height: 100vh;
+}
+
+.ant-layout-header {
+    padding: 0 15px;
+}

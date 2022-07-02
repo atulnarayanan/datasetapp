@@ -1,0 +1,47 @@
+@import 'antd/dist/antd.css';
+
+.site-layout-content {
+    min-height: 92vh;
+    padding: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+.logo {
+    float: left;
+    width: 80px;
+    height: 50px;
+    margin: 8px 15px 8px 0;
+  }
+
+  .ant-row-rtl .logo {
+    float: right;
+    margin: 16px 0 16px 24px;
+  }
+  
+  .ant-table-thead{
+    text-align: center;
+  }
+
+.layout{
+    background: #fff;
+    margin: auto;
+    min-height: 100vh;
+}
+
+.content-style {
+    margin: auto;
+    width: 100%;
+    justify-content: center;
+}
+
+/* 
+.logo {
+    width: 100%;
+    max-width: 169px;
+    height: 24px;
+    } */
+
+.ant-layout-header {
+    padding: 0 15px;
+}

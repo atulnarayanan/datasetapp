@@ -1,0 +1,10 @@
+
+  .dropzone {
+    background-color: rgba(209, 204, 204, 0.575);
+    padding: 80px 0px 0px 0px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.5);
+    border: 1px solid gray;
+    border-style: dashed;
+    height: 200px;
+  }
